@@ -1,0 +1,5 @@
+{
+	"items": [
+		{"name": "ScreensaverCopy", "priority": 1, "action": "bin/screens.sh "}
+	]
+}
