@@ -26,4 +26,4 @@ All images (only PNG) will be copied to folder in Kindle  (`/usr/share/blanket/s
 
 ## Warning
 
-All original images will be removed. Just for case, original images are in folder `OriginalScreens` in this repo.
+All original images will be removed. Just for case, original images are in folder `OriginalScreens` in this repo|archive.
